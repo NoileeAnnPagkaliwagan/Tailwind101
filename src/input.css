@@ -1,1 +1,50 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+.arena{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.fuji{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.bora{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.leyte{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.canada{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.paris{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.netherland{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.mayon{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.ek{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+
+.africa{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.palawan{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
+
+.disney{
+    @apply col-span-1 bg-yellow-200 text-pink-600 p-5 rounded-sm text-center;
+}
